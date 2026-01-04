@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "本当はね、",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-01-04T06:03:00.390412Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本当はね、",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_本当はね、_ヤングスキニー.txt"
+    }
+  ]
+}
